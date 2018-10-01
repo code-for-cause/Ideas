@@ -1,0 +1,7 @@
+We can make a Truckloading or any loading vehicle information website that will provide information about vehicles that are available to take goods.
+
+Many people want to shift or deliver goods to places in a short time, however, they do not get the right services at the right time. 
+
+On the other hand, vehicles return empty after unloading their goods. 
+
+We can further refine this.
